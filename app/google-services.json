@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126342320029",
+    "project_id": "nu-digipad",
+    "storage_bucket": "nu-digipad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126342320029:android:ac25ba3e9f4eb021e6a974",
+        "android_client_info": {
+          "package_name": "com.example.nudigipad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126342320029-dbjqofmo1m9f0nsnoi5b3lkac3roa7i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nudigipad",
+            "certificate_hash": "8dc81e9c2ddfeb033e118dcbdbe43d57da3f229b"
+          }
+        },
+        {
+          "client_id": "126342320029-g8cc8t9hthau96ekvcl708k68udcp81s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7AnZo5k6xPpuprLQOz7CRfhUzNokYHTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126342320029-g8cc8t9hthau96ekvcl708k68udcp81s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
